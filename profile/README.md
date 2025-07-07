@@ -69,7 +69,3 @@
 </div>
 
 ##
-
-<img src="https://raw.githubusercontent.com/TIKNO-col/TIKNO-col/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
